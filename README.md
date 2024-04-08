@@ -9,7 +9,7 @@ pkg install python2
 pip install rich
 pip install requests
 pip install bs4
-git clone
-cd Smile https://github.com/Smile-92/Smile.git
+git clone https://github.com/Smile-92/Smile.git
+cd Smile 
 python run.py
 ```
