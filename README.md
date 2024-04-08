@@ -10,6 +10,6 @@ pip install rich
 pip install requests
 pip install bs4
 git clone
-cd Smile
+cd Smile https://github.com/Smile-92/Smile.git
 python run.py
 ```
